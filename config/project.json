@@ -1,0 +1,16 @@
+{
+  "name": "LLM Development Process",
+  "type": "default",
+  "created_date": "2025-01-10T14:46:12.018288",
+  "settings": {
+    "state_tracking": {
+      "enabled": true
+    },
+    "session_management": {
+      "auto_archive": true
+    },
+    "automation_rules": {
+      "context_generation": "auto"
+    }
+  }
+}

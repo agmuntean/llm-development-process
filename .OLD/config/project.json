@@ -1,0 +1,16 @@
+{
+  "name": "My Project",
+  "type": "default",
+  "created_date": "2025-01-10T10:53:07.244901",
+  "settings": {
+    "state_tracking": {
+      "enabled": true
+    },
+    "session_management": {
+      "auto_archive": true
+    },
+    "automation_rules": {
+      "context_generation": "auto"
+    }
+  }
+}
